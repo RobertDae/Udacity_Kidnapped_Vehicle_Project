@@ -51,7 +51,7 @@ $> ./clean.sh
 ```
 
 #### Demo
-![ANIMATION](readme_images/simulator-demo.gif)
+![ANIMATION](https://yadi.sk/d/XFUwxDfGk2jGbA/KidnappedVehicleProject_RD.mp4)
 
 
 #### Protocol
